@@ -1,4 +1,4 @@
-Enhancing Operational Efficiency in a Multispecialty Hospital - A Business Analysis Case Study
+# Enhancing Operational Efficiency in a Multispecialty Hospital - A Business Analysis Case Study
 
 <img width="1513" height="839" alt="image" src="https://github.com/user-attachments/assets/093571c5-f6c5-4aff-822b-8cfc27dff9b0" />
 
